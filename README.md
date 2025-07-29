@@ -1,6 +1,6 @@
 # ADOnet
 
-Before you work with the codes, make sure that you use 'code/Import_Tools.ipynb' First!
+#Before you work with the codes, make sure that you use 'code/Import_Tools.ipynb' First!
 
 #DoOR_Connectome: Input is DoOR database and structure is masked by Connectome data
 
